@@ -182,23 +182,19 @@ jupyter notebook
 
 ### Correlation Heatmap
 
-_Add screenshot here_
+![Correlation Heatmap](https://github.com/Sayali979/Heart-Disease-Prediction-ML/blob/main/Heatmap.png)
 
-```markdown
-![Heatmap](images/heatmap.png)
-```
+---
 
 ### Confusion Matrix
 
-```markdown
-![Confusion Matrix](images/confusion_matrix.png)
-```
+![Confusion Matrix](https://github.com/Sayali979/Heart-Disease-Prediction-ML/blob/main/Confusion%20Matrix.png)
+
+---
 
 ### Target Variable Distribution
 
-```markdown
-![Countplot](images/countplot.png)
-```
+![Target Variable Distribution](https://github.com/Sayali979/Heart-Disease-Prediction-ML/blob/main/Target%20Variable%20Distribution.png)
 
 ---
 
